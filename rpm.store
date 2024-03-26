@@ -1,1 +1,1 @@
-{"base": "56e5b1834333", "parent": "release/rolling/imu_filter_madgwick", "previous": "0732efcbbb8f", "trim": "", "trimbase": ""}
+{"base": "402c7c36dd7d", "parent": "release/rolling/imu_filter_madgwick/2.1.3-3", "previous": "0732efcbbb8f", "trim": "", "trimbase": ""}
